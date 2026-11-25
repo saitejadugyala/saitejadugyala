@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sai Teja Dugyala</h1>
-<h3 align="center">Full-Stack Developer (Angular · Java · Spring Boot) | Generative AI | Cloud (AWS)</h3>
+<h3 align="center"> Forward Deployed Engineer | AI Engineer | Full-Stack Developer (Angular · Java · Spring Boot) | Generative AI | Cloud (AWS)</h3>
 
 <p align="center">
   📍 Toronto, Canada &nbsp;•&nbsp; 5+ years building enterprise web apps in banking
@@ -92,7 +92,7 @@
 ### 🎓 Education
 
 - **Graduate Diploma in Cloud Computing** (Distinction) — Loyalist College, Toronto · 2024 – 2025
-- **B.Tech, Electrical & Electronics Engineering** — Lovely Professional University · 2017 – 2021
+- **B.Tech, Electrical & Electronics Engineering** — Lovely Professional University · 
 
 ---
 
