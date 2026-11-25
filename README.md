@@ -1,42 +1,70 @@
-<h1 align="center">Hi 👋, I'm Sai Teja Dugyala</h1>
-<h3 align="center"> Forward Deployed Engineer | AI Engineer | Full-Stack Developer (Angular · Java · Spring Boot) | Generative AI | Cloud (AWS)</h3>
+# Hi 👋, I'm Sai Teja Dugyala
+
+<h3 align="center">Forward Deployed Engineer | AI Engineer | Full-Stack Developer (Angular · Java · Spring Boot) | Generative AI | Cloud (AWS)</h3>
 
 <p align="center">
-  📍 Toronto, Canada &nbsp;•&nbsp; 5+ years building enterprise web apps in banking
+  📍 Toronto, Canada &nbsp;•&nbsp; 5+ years of software development experience
 </p>
 
 ---
 
 ### 👨‍💻 About Me
 
-- 💼 **Java & Angular Developer at TD Bank**, Toronto (Feb 2025 – Present)
-- 🤖 Building **Generative AI** solutions: LLMs, RAG pipelines, LangChain, AI agents & tool-calling, multi-agent systems
-- 🏗️ Experienced in **Angular 16+, NgRx, RxJS, TypeScript, Java, Spring Boot, Microservices and AWS**
-- 🌱 Currently deepening: **production-grade RAG, FastAPI, and agentic AI workflows**
-- 💬 Ask me about **Angular architecture, Spring Boot microservices, RAG and AI agents**
-- ⚡ Fun fact: I enjoy breaking and fixing things to learn how they work 😄
-
----
-
-### 🧭 Experience
-
-| Role | Company | Duration |
-|------|---------|----------|
-| Java & Angular Developer | **TD Bank**, Toronto | Feb 2025 – Present |
-| Java & Angular Developer | **Tata Consultancy Services (TCS)** | Apr 2020 – Feb 2024 |
+- 💻 Software developer with **5+ years of experience** building enterprise applications and full-stack solutions.
+- 🤖 Building intelligent AI systems using **LLMs, Agentic AI, RAG, LangChain, LangGraph, MCP, and multi-agent architectures**.
+- 🏗️ Experienced in **Angular, TypeScript, RxJS, NgRx, Java, Spring Boot, Microservices, and AWS**.
+- 🧠 Focused on building production-oriented AI systems with reliable retrieval, agent orchestration, evaluation, and human-in-the-loop workflows.
+- 🚀 Currently working on **AI_SDLC, Agentic RAG, and Archify**.
+- 🌱 Continuously exploring agent engineering, context engineering, advanced RAG, and scalable AI application architectures.
+- 💬 Ask me about **AI agents, RAG architecture, LangGraph, Angular, Java, and Spring Boot**.
+- ⚡ I enjoy breaking systems, understanding how they work, and rebuilding them better.
 
 ---
 
 ### 🚀 Featured Projects
 
-| Project | Description | Tech |
-|---------|-------------|------|
-| **Investigation & Remediation Copilot** | AI engineering copilot for incident root-cause analysis and patch validation | Python, LLMs, RAG, FastAPI |
-| **Archify Workflow** | Agent that turns plain-English descriptions into workflow diagrams | LLMs, Agents |
-| **BRD Agent** | AI agent that converts project descriptions into a Business Requirements Document | Python, Gemini, Pydantic, python-docx |
-| **AI SDLC Pipeline** | Multi-agent SDLC pipeline with human approval gates and GitHub PR flow via MCP | Multi-agent, GitHub OAuth, tree-sitter, MCP |
-| **PulseBoard** | Deployable Angular dashboard integrating public APIs | Angular, RxJS, TypeScript |
-| **Bromark Search** | Search feature optimized to return results within **2 ms** | Java, Spring Boot |
+#### 1. AI_SDLC — Multi-Agent Software Development Lifecycle
+
+An AI-powered software engineering platform that transforms natural-language feature requests into requirements, technical designs, development plans, generated code, QA reviews, and GitHub pull requests.
+
+**Key capabilities:**
+- Specialized agents for requirements, technical design, planning, code generation, and QA.
+- Human approval gates between major development stages.
+- LangGraph-based workflow orchestration with persistent checkpoints.
+- Repository-aware RAG using Tree-sitter AST-based code chunking.
+- Multi-provider LLM integration with Gemini, OpenAI, and OpenRouter.
+- Deterministic QA checks combined with AI-assisted code review.
+- Automated code correction and QA retry workflow.
+- GitHub integration through MCP to create branches, write files, and open pull requests.
+
+**Tech stack:** Python, FastAPI, LangGraph, SQLite, RAG, Tree-sitter, MCP, Gemini, OpenAI, GitHub OAuth.
+
+#### 2. Agentic RAG — Intelligent Retrieval-Augmented Generation
+
+Building a RAG system focused on improving how AI applications ingest, understand, retrieve, and use external knowledge.
+
+**Key areas:**
+- Document ingestion and preprocessing.
+- Intelligent text chunking and semantic chunking strategies.
+- Embedding generation and vector database integration.
+- Context-aware retrieval and response generation.
+- Retrieval, ingestion, and generation evaluation.
+- Retrieval quality improvement and failure handling.
+- Modular architecture designed for extensibility and reliability.
+
+**Tech stack:** Python, LangChain, LLMs, Embeddings, ChromaDB, Vector Databases, RAG.
+
+#### 3. Archify — AI-Powered Workflow Generation
+
+An AI agent that transforms plain-English descriptions into structured workflow diagrams.
+
+**Key capabilities:**
+- Understands natural-language workflow descriptions.
+- Identifies workflow steps, decisions, and relationships.
+- Converts descriptions into structured workflow representations.
+- Generates visual workflow diagrams from AI-generated output.
+
+**Tech stack:** Python, LLMs, AI Agents, Prompt Engineering.
 
 ---
 
@@ -64,14 +92,17 @@
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
 </p>
 
-**Generative AI**
+**Generative AI & Agent Engineering**
 
 <p align="left">
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge" />
   <img src="https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge" />
   <img src="https://img.shields.io/badge/LLMs-412991?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
   <img src="https://img.shields.io/badge/AI_Agents-0A66C2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MCP-555555?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Vector_Databases-4051B5?style=for-the-badge" />
 </p>
 
 **Cloud & DevOps**
@@ -91,8 +122,8 @@
 
 ### 🎓 Education
 
-- **Graduate Diploma in Cloud Computing** (Distinction) — Loyalist College, Toronto · 2024 – 2025
-- **B.Tech, Electrical & Electronics Engineering** — Lovely Professional University · 
+- **Graduate Diploma in Cloud Computing (Distinction)** — Loyalist College, Toronto · 2024–2025
+- **B.Tech, Electrical & Electronics Engineering** — Lovely Professional University
 
 ---
 
@@ -110,5 +141,15 @@
 ---
 
 ### 📫 Let's Connect!
-  <a href="mailto:saitejaraodugyala@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
+<p align="left">
+  <a href="mailto:saitejaraodugyala@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>Building intelligent systems at the intersection of software engineering and AI.</i>
 </p>
