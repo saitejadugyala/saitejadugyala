@@ -10,7 +10,7 @@
 
 ### 👨‍💻 About Me
 
-- 💻 Software developer with **5+ years of experience** building enterprise applications and full-stack solutions.
+- 💻 Software developer with **4+ years of experience** building enterprise applications and full-stack solutions.
 - 🤖 Building intelligent AI systems using **LLMs, Agentic AI, RAG, LangChain, LangGraph, MCP, and multi-agent architectures**.
 - 🏗️ Experienced in **Angular, TypeScript, RxJS, NgRx, Java, Spring Boot, Microservices, and AWS**.
 - 🧠 Focused on building production-oriented AI systems with reliable retrieval, agent orchestration, evaluation, and human-in-the-loop workflows.
